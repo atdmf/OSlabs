@@ -71,4 +71,4 @@ int main()
     sem_destroy(&semaphore);
     cout << "КОНЕЦ \n" << flush;
     return 0;
-}
+} 
